@@ -14,3 +14,7 @@ A simple To-Do List application built with React, Node.js, Express, and MongoDB.
 - **Backend**: Node.js + Express.js
 - **Database**: MongoDB (Mongoose for ORM)
 - **HTTP Requests**: Axios
+
+### Home Page
+
+![Home Page](https://github.com/jammudurgaprasad/Full-Stack-ToDo-App/blob/main/Screenshot%202025-02-02%20150932.png)
