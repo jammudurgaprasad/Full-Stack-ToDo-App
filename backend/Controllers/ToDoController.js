@@ -30,14 +30,3 @@ module.exports.DeleteToDo = async(req,res)=>{
         .then(()=>res.send("Deleted successfully..."))
         .catch((err)=>console.log(err))
 }
-
-// module.exports.SaveUser = async (req, res) => {
-//     const { name, email } = req.body;
-//     const newUser = await UserModel.create({ name, email });
-//     res.send(newUser);
-// };
-
-// module.exports.getUsers = async (req, res) => {
-//     const users = await UserModel.find();
-//     res.send(users);
-// };
